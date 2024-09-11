@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-table-section {
+  /* background-image: url('bgtwo.jpg') ; */
+}
